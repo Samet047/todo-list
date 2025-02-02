@@ -13,3 +13,4 @@ Acun Medya Akademi - Samet Kayaalp Proje Ödevi
   ## bundan dolayı masterdeki js dosyasıda gitti, geri getirmek için; git log js dosyasının olduğu commit idsi alındı ve git checkout [id] -- script.js ile commite dönüldü dosya alındı ve git add script.js ile areayı alınıp git commit -m "yanlışlıkla silinen js dosyası geri getirildi" şeklinde commit edilip git push -u origin master ile güncellemeler upload edildi.
 # git clone https://github.com/Samet047/freeCodeCamp.git ile freecodecamp klonlandı ve dosyalar uzak depoya da gönderildi.
 # daha sonra git checkout -b klon-branch şeklimde yeni bir branch açıldı ve git rebase origin/master şeklinde master branchi klon-branche/taşındı kopyalandı.
+#freecodecamp'e issue yazıldı.
